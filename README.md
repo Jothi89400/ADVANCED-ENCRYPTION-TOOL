@@ -42,3 +42,6 @@
    - The wrong file (`encrypt_tool.spec`) might have been used instead of the correct `.enc` file.  
    - The encryption key or file data might have been altered or corrupted.  
    - The padding mechanism in the tool might be causing decryption issues. 
+
+# OUTPUT
+
